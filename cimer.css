@@ -1,5 +1,5 @@
 body{
-  padding: 5px 25px;
+    padding: 5px 25px;
 }
 
 p{
@@ -30,7 +30,7 @@ h1, h2{
 }
 
 a{
-  text-decoration: none;
+  text-decoration: #7f7f7f;
 }
 
 img{
@@ -46,7 +46,7 @@ img{
 }
 
 .fk{
-  font-weight: normal;
+  font-weight: bold;
 }
 
 #teljes{
